@@ -12,10 +12,11 @@ TECHNOLOGIES USED ;
 4. THREE.JS
    
 SCREENSHOTS OF APP;
-![Screenshot (154)](https://github.com/SahilAgrwl/3D-Canvas-App/assets/110213349/d520b911-fd09-4fab-be70-872de6ff15b6)
-![Screenshot (155)](https://github.com/SahilAgrwl/3D-Canvas-App/assets/110213349/5fa1ceae-4254-42b3-b905-ea1f91802c2b)
-![Screenshot (156)](https://github.com/SahilAgrwl/3D-Canvas-App/assets/110213349/e130a454-f82e-43bf-801d-62a2d0aeebf9)
-![Screenshot (157)](https://github.com/SahilAgrwl/3D-Canvas-App/assets/110213349/da6977b1-cb80-4d03-b329-2c9e45bd875b)
+![Screenshot (154)](https://github.com/SahilAgrwl/3D-Canvas-App/assets/110213349/c6f37e86-0b20-45f4-871d-45fd9790b805)
+![Screenshot (155)](https://github.com/SahilAgrwl/3D-Canvas-App/assets/110213349/79831010-354f-4989-ae8a-f6d85856c0cf)
+![Screenshot (156)](https://github.com/SahilAgrwl/3D-Canvas-App/assets/110213349/fc5c4981-0880-44c3-8d3b-eab8db3a1077)
+![Screenshot (157)](https://github.com/SahilAgrwl/3D-Canvas-App/assets/110213349/217e7c64-129d-4f0a-993c-8c06330b6169)
+
 
 CODE EDITOR ;
 VS CODE
